@@ -1,0 +1,18 @@
+button{
+    background-color: rgb(50, 99, 21);
+    color: white;
+    border-radius: 2px;
+    border: none;
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left:50px
+}
+button:hover {
+    background-color: rgb(50, 99, 21);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    transform: rotate(45deg);
+}

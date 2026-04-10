@@ -1,0 +1,11 @@
+p{
+    background-color: rgb(218, 218, 218);
+    color: white;
+    border: none;
+    padding: 20px;
+}
+p:hover {
+    background-color: rgb(145, 145, 145);
+    color: white;
+    border: none;
+}
