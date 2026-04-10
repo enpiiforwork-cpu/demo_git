@@ -1,0 +1,17 @@
+button{
+    background-color: rgb(223, 223, 223);
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+button:hover {
+    background-color: rgb(142, 95, 204);
+    opacity: 1;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    border: none;
+    transform: scale(1.1);
+}

@@ -1,0 +1,15 @@
+button{
+    background-color: rgb(223, 223, 223);
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+button:hover {
+    background-color: rgb(142, 95, 204);
+    color: white;
+    padding: 20px;
+    border: none;
+    transform: rotate(40deg);
+}
