@@ -1,0 +1,40 @@
+form{
+    border: 2px solid rgb(233, 233, 233);
+    padding: 40px;
+    width: 300px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin: 0 0 15px 0; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000; 
+    font-size: 25px;
+
+}
+input{
+    width: 300px;
+    height: 20px;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 10px 120px;
+    margin-left: 22px; 
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; 
+    font-size: 14px;
+}
+button:hover{
+    background-color: rgb(96, 28, 160);
+}
+lable{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; 
+    font-size: 14px;
+}
