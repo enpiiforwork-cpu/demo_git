@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr; 
+  gap: 10px;
+}
+
+.box {
+  background: #2f4053;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.big {
+  grid-row: span 2;
+  background: #2f4053;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
