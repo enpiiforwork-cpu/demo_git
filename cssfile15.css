@@ -1,0 +1,14 @@
+button{
+    background-color: rgb(223, 223, 223);
+    color: white;
+    text-align: center;
+    border: 7px solid transparent;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+button:hover {
+    background-color: rgb(142, 95, 204);
+    color: white;
+    padding: 20px;
+    border: 7px solid rgb(71, 14, 124);
+}

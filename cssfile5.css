@@ -1,0 +1,21 @@
+h1{
+    color:rgb(255, 211, 68);
+    }
+#p1{
+    color:rgb(35, 35, 172);
+    width: 800px
+    }
+#p2{
+    color:rgb(252, 90, 15);
+    width: 800px   
+    }
+#p3{
+    color:black;
+    width: 800px;
+    background-color: rgba(255, 211, 68, 0.2);
+    padding:20px;
+    border-left: 8px solid rgb(255, 211, 68)
+    }
+.orange{
+    color:rgb(255, 211, 68)
+    }

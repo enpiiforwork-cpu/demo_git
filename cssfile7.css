@@ -1,0 +1,8 @@
+button{
+    background-color: rgb(202, 200, 200);
+    color:black;
+    border-top: 1px solid red;
+    border-right: 2px dotted  purple;
+    border-bottom: 1px double green;
+    border-left: 2px groove purple
+}
